@@ -1,0 +1,5 @@
+react js command
+1:if we fetch the api data in react js we use axios
+command for installing axios
+npm install axios --save
+===================
