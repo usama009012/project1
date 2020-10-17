@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/42460896/check-username-and-email-already-exists-in-php-mysql

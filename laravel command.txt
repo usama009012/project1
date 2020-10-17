@@ -1,0 +1,27 @@
+make basic controller:
+php artisan make:controller controllername
+======================================
+make resource controller"
+php artisan make:controller controllername   --resource
+================================================
+command of making the modal:
+php artisan make:model modelname
+================================
+command of making migration
+php artisan make:migration create_migrationname_table
+=================================================
+command of making the modal and migration together
+php artisan make:model modelname -m
+===================================
+command shifting the table into database
+php artisan migrate
+===================================
+command for making the validaton
+php artisan make: request requestname
+================================
+command of resource controller and integrate the modal in resource controller
+php artisan make:controller controllername --resource -mmodelname
+==========================================================
+command of making seeders
+php artisan make:seed seedername
+
